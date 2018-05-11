@@ -1,0 +1,11 @@
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\bin\Debug\YoutubeSearchAPI.exe.config
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\bin\Debug\YoutubeSearchAPI.exe
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\bin\Debug\YoutubeSearchAPI.pdb
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\bin\Debug\YoutubeSearch.dll
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.Form1.resources
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.Properties.Resources.resources
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.csproj.GenerateResource.Cache
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.csproj.CoreCompileInputs.cache
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.exe
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.pdb
+c:\users\mieshki\source\repos\YoutubeSearchAPI\YoutubeSearchAPI\obj\Debug\YoutubeSearchAPI.csprojResolveAssemblyReference.cache
